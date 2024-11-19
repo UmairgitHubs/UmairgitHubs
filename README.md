@@ -11,7 +11,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
--🔭   I’m currently working on advanced Laravel and Next.js projects, combining modern web development with AI integration.<br>
+-🔭   I’m currently working on advanced Laravel and Next.js projects, combining     modern web development with AI integration.<br>
 -🤝   I’m looking to collaborate on cutting-edge full-stack applications and AI-powered solutions.<br>
 -🌱   I’m currently learning advanced machine learning model optimization and deployment techniques.<br>
 -👨🏻‍💻   Most of my projects are available on GitHub.<br>
