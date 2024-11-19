@@ -14,10 +14,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 -🔭   I’m currently working on advanced Laravel and Next.js projects, combining     modern web development with AI integration.<br>
 -🤝   I’m looking to collaborate on cutting-edge full-stack applications and AI-powered solutions.<br>
 -🌱   I’m currently learning advanced machine learning model optimization and deployment techniques.<br>
--👨🏻‍💻   Most of my projects are available on GitHub.<br>
+-👨🏻‍💻   Most of my projects are available on [GitHub](https://github.com/UmairgitHubs).<br>
 -🎨   I enjoy creating seamless user experiences with tools like React, Next.js, and Figma.<br>
 -💬   Ask me about anything tech-related, especially Laravel, React, Next.js, Node.js, MongoDB, Python, or AI model training.<br>
--📫   Feel free to connect with me on LinkedIn.<br>
+-📫   Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-umair-4424aa202/).<br>
 -📝   Check out my resume for a detailed overview of my experience and skills.<br>
 -📚   When I’m free, I dive into reading tech blogs and experimenting with new tools and technologies<br>
 
